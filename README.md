@@ -22,6 +22,12 @@ their teams, purpose and career progression. You can also learn more
 about the thinking behind my
 [Quarterly SRE Health check](https://www.unixdaemon.net/career/quarterly-sre-healthcheck/)
 
+### Skills Survey
+
+A simple [skills survey](/skills-survey/) that asks each responder to
+rate their skill with a list of technologies using one of a small number
+of predefined responses.
+
 ## Audience
 
 In order to make these forms as widely reusable as possible I'm
