@@ -32,6 +32,14 @@ the actual JavaScript code. Your audience probably differs to mine so
 you should move into deeper structures or more explicit literals as
 suits your environment.
 
+## Notes
+
+### File formats
+
+Google expects their App Scripts to end in `.gs` but the tooling I use
+is a normal part of the JavaScript ecosystem and so assumes `.js`. To
+work around this the scripts in this repo will end in `.js` but you'll
+need to rename them on upload.
 
 ### Author
 
