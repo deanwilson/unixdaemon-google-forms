@@ -4,12 +4,12 @@ function healthCheck() {
   
   var intro_text = "" +
     "At the end of each quarter we would like to take a few minutes " +
-    "and review how people are feeling and how things have gone over the last " +
-    "three months. This form should take less than 5 minutes to complete and is configured " +
-    "to not collect names or email address. Hopefully this will allow you to be as " +
+    "to review how people are feeling and how things have gone over the past " +
+    "three months. This form should take less than five minutes to complete, and does not " +
+    "ask for your name or email address. Hopefully this will allow you to be as " +
     "honest as possible in your answers. We will circulate the same form again at the end " +
-    "of next quarter so we can compare and contrast to find both the areas our " +
-    "improvements have had an impact on and to show us where things still need improvement." +
+    "of next quarter so we can compare and contrast, both to find areas where our " +
+    "improvements have had an impact and to show us where things still need to be improved." +
     "\n\n" +
     "Thank you for taking the time to complete this form.";
   
